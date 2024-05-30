@@ -1,4 +1,3 @@
-// src/controllers/itemController.js
 const { Item, Bid } = require("../models");
 const { validationResult } = require("express-validator");
 const multer = require("multer");
